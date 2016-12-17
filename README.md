@@ -1,2 +1,2 @@
 # 2
-2 game online! (Currently in development)
+2 game online!
